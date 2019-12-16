@@ -11,7 +11,8 @@ We expect players to eventually converge to one of four solutions, which we list
 2. Alt A-B – The players take turns going through Gate A, which results in an average payo↵ of 11 points to each player.
 3. Both A – Both players attempt to go through Gate A, thus requiring each player to pass through Gate C. This gives both players 7 points.
 4. Bully – One of the players always goes through Gate A, leaving the other to go through Gate D. This gives the players 22 and 0 points, respectively
-![alt text](https://github.com/vbabushkin/StochasticPrisonersDilemmaQLearningNetBeans/blob/master/pdPicture.png){:height="744px" width="427px"}
+
+<img src="https://github.com/vbabushkin/StochasticPrisonersDilemmaQLearningNetBeans/blob/master/pdPicture.png" width="200">
 *Text and figure are replicated from [3], p. 313*
 
 ### References
