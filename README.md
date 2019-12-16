@@ -16,5 +16,7 @@ We expect players to eventually converge to one of four solutions, which we list
 
 ### References
 [1] M. A. Goodrich, J. W. Crandall, and J. R. Stimpson. Neglect tolerant teaming: Issues and dilemmas. In AAAI Spring Symposium on Human Interaction with Autonomous Systems in Complex Environments, 2003.
+
 [2] R. Axelrod. The Evolution of Cooperation. Basic Books, 1984.
+
 [3] Mayada Oudah, Vahan Babushkin, Tennom Chenlinangjia, Jacob Crandall, "Learning to Interact with a Human Partner, " 10-th ACM/IEEE International Conference on Human-Robot Interaction, Portland, USA, (2015) http://dl.acm.org/citation.cfm?id=2696482.
