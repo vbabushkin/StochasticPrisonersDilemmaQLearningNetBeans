@@ -11,7 +11,7 @@ We expect players to eventually converge to one of four solutions, which we list
 2. Alt A-B – The players take turns going through Gate A, which results in an average payo↵ of 11 points to each player.
 3. Both A – Both players attempt to go through Gate A, thus requiring each player to pass through Gate C. This gives both players 7 points.
 4. Bully – One of the players always goes through Gate A, leaving the other to go through Gate D. This gives the players 22 and 0 points, respectively
-![alt text](https://github.com/vbabushkin/StochasticPrisonersDilemmaQLearningNetBeans/blob/master/pdPicture.png)
+![alt text](https://github.com/vbabushkin/StochasticPrisonersDilemmaQLearningNetBeans/blob/master/pdPicture.png){:height="744px" width="427px"}
 *Text and figure are replicated from [3], p. 313*
 
 ### References
@@ -19,4 +19,4 @@ We expect players to eventually converge to one of four solutions, which we list
 
 [2] R. Axelrod. The Evolution of Cooperation. Basic Books, 1984.
 
-[3] Mayada Oudah, Vahan Babushkin, Tennom Chenlinangjia, Jacob Crandall, "Learning to Interact with a Human Partner, " 10-th ACM/IEEE International Conference on Human-Robot Interaction, Portland, USA, (2015) http://dl.acm.org/citation.cfm?id=2696482.
+[3] Mayada Oudah, Vahan Babushkin, Tennom Chenlinangjia, Jacob Crandall, "Learning to Interact with a Human Partner," 10-th ACM/IEEE International Conference on Human-Robot Interaction, Portland, USA, (2015) http://dl.acm.org/citation.cfm?id=2696482.
